@@ -1,0 +1,1389 @@
+fileFormatVersion: 2
+guid: 3a435819ccb2049198729445f3d9b950
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5912239152345254188
+    second: Arcade - Frogger - General Rip_0
+  - first:
+      213: 3130320933252901545
+    second: Arcade - Frogger - General Rip_1
+  - first:
+      213: -4992352940417970580
+    second: Arcade - Frogger - General Rip_2
+  - first:
+      213: -5848336522380333655
+    second: Arcade - Frogger - General Rip_3
+  - first:
+      213: 8674401199405410861
+    second: Arcade - Frogger - General Rip_4
+  - first:
+      213: 3976100563348019026
+    second: Arcade - Frogger - General Rip_5
+  - first:
+      213: -1075131634083669855
+    second: Arcade - Frogger - General Rip_6
+  - first:
+      213: -6748545086018748486
+    second: Arcade - Frogger - General Rip_7
+  - first:
+      213: 3602582630157105228
+    second: Arcade - Frogger - General Rip_8
+  - first:
+      213: -5798976604969298870
+    second: Arcade - Frogger - General Rip_9
+  - first:
+      213: 4655042918567432832
+    second: Arcade - Frogger - General Rip_10
+  - first:
+      213: -1088131131208532366
+    second: Arcade - Frogger - General Rip_11
+  - first:
+      213: -4274271029256850767
+    second: Arcade - Frogger - General Rip_12
+  - first:
+      213: 6314400983406749357
+    second: Arcade - Frogger - General Rip_13
+  - first:
+      213: -136359277681768582
+    second: Arcade - Frogger - General Rip_14
+  - first:
+      213: 5958410399344948601
+    second: Arcade - Frogger - General Rip_15
+  - first:
+      213: 4967282042758715811
+    second: Arcade - Frogger - General Rip_16
+  - first:
+      213: -2885509493279804262
+    second: Arcade - Frogger - General Rip_17
+  - first:
+      213: 93845232569380838
+    second: Arcade - Frogger - General Rip_18
+  - first:
+      213: -6323018883286018534
+    second: Arcade - Frogger - General Rip_19
+  - first:
+      213: 7999872885057197224
+    second: Arcade - Frogger - General Rip_20
+  - first:
+      213: 1167549767456846106
+    second: Arcade - Frogger - General Rip_21
+  - first:
+      213: 2150035436143646873
+    second: Arcade - Frogger - General Rip_22
+  - first:
+      213: -6778091706091451141
+    second: Arcade - Frogger - General Rip_23
+  - first:
+      213: -5187034489872384348
+    second: Arcade - Frogger - General Rip_24
+  - first:
+      213: 7466809648135297660
+    second: Arcade - Frogger - General Rip_25
+  - first:
+      213: -4020632571790248001
+    second: Arcade - Frogger - General Rip_26
+  - first:
+      213: 2866534952219342127
+    second: Arcade - Frogger - General Rip_27
+  - first:
+      213: -4954842731503439965
+    second: Arcade - Frogger - General Rip_28
+  - first:
+      213: 521354386758834280
+    second: Arcade - Frogger - General Rip_29
+  - first:
+      213: -7468533094288794124
+    second: Arcade - Frogger - General Rip_30
+  - first:
+      213: -6582631215857778174
+    second: Arcade - Frogger - General Rip_31
+  - first:
+      213: 5563284823150003245
+    second: Arcade - Frogger - General Rip_32
+  - first:
+      213: -3166888995636258815
+    second: Arcade - Frogger - General Rip_33
+  - first:
+      213: -8553990989208036771
+    second: Arcade - Frogger - General Rip_34
+  - first:
+      213: 2316450001132288401
+    second: Arcade - Frogger - General Rip_35
+  - first:
+      213: 7660645146205476464
+    second: Arcade - Frogger - General Rip_36
+  - first:
+      213: 8391391065800071734
+    second: Arcade - Frogger - General Rip_37
+  - first:
+      213: -6414266910749188658
+    second: Arcade - Frogger - General Rip_38
+  - first:
+      213: -7563869132378612000
+    second: Arcade - Frogger - General Rip_39
+  - first:
+      213: -4285166935012066211
+    second: Arcade - Frogger - General Rip_40
+  - first:
+      213: 1522129088006611590
+    second: Arcade - Frogger - General Rip_41
+  - first:
+      213: -2935204223001461199
+    second: Arcade - Frogger - General Rip_42
+  - first:
+      213: 5197062571099157570
+    second: Arcade - Frogger - General Rip_43
+  - first:
+      213: -8649020866076267939
+    second: Arcade - Frogger - General Rip_44
+  - first:
+      213: -8009209249375121052
+    second: Arcade - Frogger - General Rip_45
+  - first:
+      213: 8994325469537015801
+    second: Arcade - Frogger - General Rip_46
+  - first:
+      213: 430378986714320857
+    second: Arcade - Frogger - General Rip_47
+  - first:
+      213: 5432649630600791859
+    second: Arcade - Frogger - General Rip_48
+  - first:
+      213: -6126361770206999988
+    second: Arcade - Frogger - General Rip_49
+  - first:
+      213: -1833761477509445439
+    second: Arcade - Frogger - General Rip_50
+  - first:
+      213: 2371392605851389844
+    second: Arcade - Frogger - General Rip_51
+  - first:
+      213: -5531899030863705436
+    second: Arcade - Frogger - General Rip_52
+  - first:
+      213: 2245066340091138215
+    second: Arcade - Frogger - General Rip_53
+  - first:
+      213: 6085058161970526499
+    second: Arcade - Frogger - General Rip_54
+  - first:
+      213: -8025167097034034931
+    second: Arcade - Frogger - General Rip_55
+  - first:
+      213: -9215923898308594948
+    second: Arcade - Frogger - General Rip_56
+  - first:
+      213: -10732522092714501
+    second: Arcade - Frogger - General Rip_57
+  - first:
+      213: -2063850740314821010
+    second: Arcade - Frogger - General Rip_58
+  - first:
+      213: -659089143994673550
+    second: Arcade - Frogger - General Rip_59
+  - first:
+      213: -5243461066683093636
+    second: Arcade - Frogger - General Rip_60
+  - first:
+      213: 4152948136071741853
+    second: Arcade - Frogger - General Rip_61
+  - first:
+      213: 3029830824288942019
+    second: Arcade - Frogger - General Rip_62
+  - first:
+      213: 5679684706831925786
+    second: Arcade - Frogger - General Rip_63
+  - first:
+      213: -1361126674511486481
+    second: Arcade - Frogger - General Rip_64
+  - first:
+      213: -1100789473487837439
+    second: Arcade - Frogger - General Rip_65
+  - first:
+      213: 1130759520360269431
+    second: Arcade - Frogger - General Rip_66
+  - first:
+      213: 5811939793496479610
+    second: Arcade - Frogger - General Rip_67
+  - first:
+      213: -3061476299629541378
+    second: Arcade - Frogger - General Rip_68
+  - first:
+      213: 8205606736250816110
+    second: Arcade - Frogger - General Rip_69
+  - first:
+      213: 6317822485733313217
+    second: Arcade - Frogger - General Rip_70
+  - first:
+      213: 3515599444947680201
+    second: Arcade - Frogger - General Rip_71
+  - first:
+      213: -6723771368111021219
+    second: Arcade - Frogger - General Rip_72
+  - first:
+      213: -8308366410657254051
+    second: Arcade - Frogger - General Rip_73
+  - first:
+      213: 6643556815714790444
+    second: Arcade - Frogger - General Rip_74
+  - first:
+      213: -258294215831918510
+    second: Arcade - Frogger - General Rip_75
+  - first:
+      213: -8231464926688805835
+    second: Arcade - Frogger - General Rip_76
+  - first:
+      213: 5166665777818606584
+    second: Arcade - Frogger - General Rip_77
+  - first:
+      213: 1204455704367128000
+    second: Arcade - Frogger - General Rip_78
+  - first:
+      213: -4714027181516251223
+    second: Arcade - Frogger - General Rip_79
+  - first:
+      213: 7921472756493140799
+    second: Arcade - Frogger - General Rip_80
+  - first:
+      213: 2453518087119115561
+    second: Arcade - Frogger - General Rip_81
+  - first:
+      213: -1540194914785521467
+    second: Arcade - Frogger - General Rip_82
+  - first:
+      213: -6572298192384152820
+    second: Arcade - Frogger - General Rip_83
+  - first:
+      213: 8037495439106746725
+    second: Arcade - Frogger - General Rip_84
+  - first:
+      213: 9161662701369697949
+    second: Arcade - Frogger - General Rip_85
+  - first:
+      213: 3690654460077917538
+    second: Arcade - Frogger - General Rip_86
+  - first:
+      213: 7295833110343180519
+    second: Arcade - Frogger - General Rip_87
+  - first:
+      213: 7226161786483214583
+    second: Arcade - Frogger - General Rip_88
+  - first:
+      213: 7571692316718949947
+    second: Arcade - Frogger - General Rip_89
+  - first:
+      213: 2406888486248797014
+    second: Arcade - Frogger - General Rip_90
+  - first:
+      213: -4419097712269406344
+    second: Arcade - Frogger - General Rip_91
+  - first:
+      213: -4728907440631706461
+    second: Arcade - Frogger - General Rip_92
+  - first:
+      213: -4085216577695066194
+    second: Arcade - Frogger - General Rip_93
+  - first:
+      213: -8601500184596370423
+    second: Arcade - Frogger - General Rip_94
+  - first:
+      213: -73549653667887213
+    second: Arcade - Frogger - General Rip_95
+  - first:
+      213: 7471125428501508938
+    second: Arcade - Frogger - General Rip_96
+  - first:
+      213: -6410942383444922042
+    second: Arcade - Frogger - General Rip_97
+  - first:
+      213: 7085714912531480166
+    second: Arcade - Frogger - General Rip_98
+  - first:
+      213: -2295492254598394870
+    second: Arcade - Frogger - General Rip_99
+  - first:
+      213: 5339620968489544655
+    second: Arcade - Frogger - General Rip_100
+  - first:
+      213: 6660736773731720120
+    second: Arcade - Frogger - General Rip_101
+  - first:
+      213: 246811437392027407
+    second: Arcade - Frogger - General Rip_102
+  - first:
+      213: 5902958099058680988
+    second: Arcade - Frogger - General Rip_103
+  - first:
+      213: 8986655811982728167
+    second: Arcade - Frogger - General Rip_104
+  - first:
+      213: -2424584315810308546
+    second: Arcade - Frogger - General Rip_105
+  - first:
+      213: 3305541839933374165
+    second: Arcade - Frogger - General Rip_106
+  - first:
+      213: 7534450088706583150
+    second: Arcade - Frogger - General Rip_107
+  - first:
+      213: 1754866191511819396
+    second: Arcade - Frogger - General Rip_108
+  - first:
+      213: 6810962860734878922
+    second: Arcade - Frogger - General Rip_109
+  - first:
+      213: -6637575701345561016
+    second: Arcade - Frogger - General Rip_110
+  - first:
+      213: -6764302977474839923
+    second: Arcade - Frogger - General Rip_111
+  - first:
+      213: 451713223814203699
+    second: Arcade - Frogger - General Rip_112
+  - first:
+      213: -2913301140572544990
+    second: Arcade - Frogger - General Rip_113
+  - first:
+      213: -1496106799782946068
+    second: Arcade - Frogger - General Rip_114
+  - first:
+      213: 1827197149994055941
+    second: Arcade - Frogger - General Rip_115
+  - first:
+      213: -7056166063542539374
+    second: Arcade - Frogger - General Rip_116
+  - first:
+      213: -6352453617284569243
+    second: Arcade - Frogger - General Rip_117
+  - first:
+      213: 7744274566546646610
+    second: Arcade - Frogger - General Rip_118
+  - first:
+      213: 2158673789169011553
+    second: Arcade - Frogger - General Rip_119
+  - first:
+      213: 6000368619831076241
+    second: Arcade - Frogger - General Rip_120
+  - first:
+      213: 8952853250599626822
+    second: Arcade - Frogger - General Rip_121
+  - first:
+      213: -4358181963010010408
+    second: Arcade - Frogger - General Rip_122
+  - first:
+      213: -5132638548840079590
+    second: Arcade - Frogger - General Rip_123
+  - first:
+      213: 4112986876883522404
+    second: Arcade - Frogger - General Rip_124
+  - first:
+      213: 3586304038967042301
+    second: Arcade - Frogger - General Rip_125
+  - first:
+      213: -750946168524478680
+    second: Arcade - Frogger - General Rip_126
+  - first:
+      213: 6675528368889108314
+    second: Arcade - Frogger - General Rip_127
+  - first:
+      213: 1182625022250815410
+    second: Arcade - Frogger - General Rip_128
+  - first:
+      213: 1255239759938187340
+    second: Arcade - Frogger - General Rip_129
+  - first:
+      213: -6955101279603717142
+    second: Arcade - Frogger - General Rip_130
+  - first:
+      213: -1547159277657556801
+    second: Arcade - Frogger - General Rip_131
+  - first:
+      213: -3341952239586642910
+    second: Arcade - Frogger - General Rip_132
+  - first:
+      213: 4619781921118697835
+    second: Arcade - Frogger - General Rip_133
+  - first:
+      213: -803753137303545076
+    second: Arcade - Frogger - General Rip_134
+  - first:
+      213: 8925745562240968713
+    second: Arcade - Frogger - General Rip_135
+  - first:
+      213: -2760132611737284879
+    second: Arcade - Frogger - General Rip_136
+  - first:
+      213: -6661463268839577639
+    second: Arcade - Frogger - General Rip_137
+  - first:
+      213: -1960040927471333982
+    second: Arcade - Frogger - General Rip_138
+  - first:
+      213: -6748372396131172508
+    second: Arcade - Frogger - General Rip_139
+  - first:
+      213: 4616445303089305559
+    second: Arcade - Frogger - General Rip_140
+  - first:
+      213: 6412953760940480307
+    second: Arcade - Frogger - General Rip_141
+  - first:
+      213: -3405921895306711485
+    second: Arcade - Frogger - General Rip_142
+  - first:
+      213: -1324731069440462052
+    second: Arcade - Frogger - General Rip_143
+  - first:
+      213: 7102041170199160855
+    second: Arcade - Frogger - General Rip_144
+  - first:
+      213: -5753832491311653497
+    second: Arcade - Frogger - General Rip_145
+  - first:
+      213: 5286471227614876870
+    second: Arcade - Frogger - General Rip_146
+  - first:
+      213: 1597449051549133579
+    second: Arcade - Frogger - General Rip_147
+  - first:
+      213: -5240400705718305307
+    second: Arcade - Frogger - General Rip_148
+  - first:
+      213: 7530037530007506500
+    second: Arcade - Frogger - General Rip_149
+  - first:
+      213: 3656009373619380915
+    second: Arcade - Frogger - General Rip_150
+  - first:
+      213: 6360522272817391876
+    second: Arcade - Frogger - General Rip_151
+  - first:
+      213: 3305856198176349638
+    second: Arcade - Frogger - General Rip_152
+  - first:
+      213: -8267534646273607599
+    second: Arcade - Frogger - General Rip_153
+  - first:
+      213: -5647435678960815797
+    second: Arcade - Frogger - General Rip_154
+  - first:
+      213: 3202928384482623332
+    second: Arcade - Frogger - General Rip_155
+  - first:
+      213: 3217333809363311343
+    second: Arcade - Frogger - General Rip_156
+  - first:
+      213: -4180658037537856193
+    second: Arcade - Frogger - General Rip_157
+  - first:
+      213: -713469567539546891
+    second: Arcade - Frogger - General Rip_158
+  - first:
+      213: -7824688939669121524
+    second: Arcade - Frogger - General Rip_159
+  - first:
+      213: -4069561511622230391
+    second: Arcade - Frogger - General Rip_160
+  - first:
+      213: 2878748643490811789
+    second: Arcade - Frogger - General Rip_161
+  - first:
+      213: -6629397197780678054
+    second: Arcade - Frogger - General Rip_162
+  - first:
+      213: 1271859398312209032
+    second: Arcade - Frogger - General Rip_163
+  - first:
+      213: 2345597581210427713
+    second: Arcade - Frogger - General Rip_164
+  - first:
+      213: 235661468765479725
+    second: Arcade - Frogger - General Rip_165
+  - first:
+      213: -6107493880683566244
+    second: Arcade - Frogger - General Rip_166
+  - first:
+      213: 8490644595172151536
+    second: Arcade - Frogger - General Rip_167
+  - first:
+      213: -8522921616158980277
+    second: Arcade - Frogger - General Rip_168
+  - first:
+      213: -6454820018013054577
+    second: Arcade - Frogger - General Rip_169
+  - first:
+      213: 5431675601414713135
+    second: Arcade - Frogger - General Rip_170
+  - first:
+      213: 129506214869439282
+    second: Arcade - Frogger - General Rip_171
+  - first:
+      213: 6251479000065029461
+    second: Arcade - Frogger - General Rip_172
+  - first:
+      213: -1344878253401540459
+    second: Arcade - Frogger - General Rip_173
+  - first:
+      213: -5775373362748378439
+    second: Arcade - Frogger - General Rip_174
+  - first:
+      213: -797453231983244364
+    second: Arcade - Frogger - General Rip_175
+  - first:
+      213: 4398138744386110731
+    second: Arcade - Frogger - General Rip_176
+  - first:
+      213: 3943486531751018212
+    second: Arcade - Frogger - General Rip_177
+  - first:
+      213: 2701230901796367811
+    second: Arcade - Frogger - General Rip_178
+  - first:
+      213: 4816369192850365722
+    second: Arcade - Frogger - General Rip_179
+  - first:
+      213: -2048070653187250750
+    second: Arcade - Frogger - General Rip_180
+  - first:
+      213: -8069076815763582361
+    second: Arcade - Frogger - General Rip_181
+  - first:
+      213: 300347738047385833
+    second: Arcade - Frogger - General Rip_182
+  - first:
+      213: 8255159515625423251
+    second: Arcade - Frogger - General Rip_183
+  - first:
+      213: 7592155571592304245
+    second: Arcade - Frogger - General Rip_184
+  - first:
+      213: -5616072260073882030
+    second: Arcade - Frogger - General Rip_185
+  - first:
+      213: 7097795469423265699
+    second: Arcade - Frogger - General Rip_186
+  - first:
+      213: -7199301899982184584
+    second: Arcade - Frogger - General Rip_187
+  - first:
+      213: -7206845318199747728
+    second: Arcade - Frogger - General Rip_188
+  - first:
+      213: 4008331111449844657
+    second: Arcade - Frogger - General Rip_189
+  - first:
+      213: -1726630976198422092
+    second: Arcade - Frogger - General Rip_190
+  - first:
+      213: 7237986019971955217
+    second: Arcade - Frogger - General Rip_191
+  - first:
+      213: -8947289385673940868
+    second: Arcade - Frogger - General Rip_192
+  - first:
+      213: 2403830373501121976
+    second: Arcade - Frogger - General Rip_193
+  - first:
+      213: -8470860715378138906
+    second: Arcade - Frogger - General Rip_194
+  - first:
+      213: -4888400083398405783
+    second: Arcade - Frogger - General Rip_195
+  - first:
+      213: 796602465949861320
+    second: Arcade - Frogger - General Rip_196
+  - first:
+      213: -1648636474715910175
+    second: Arcade - Frogger - General Rip_197
+  - first:
+      213: -5458083671267779401
+    second: Arcade - Frogger - General Rip_198
+  - first:
+      213: 5271738253604517382
+    second: Arcade - Frogger - General Rip_199
+  - first:
+      213: 6521436047045350932
+    second: Arcade - Frogger - General Rip_200
+  - first:
+      213: 8974562603061534806
+    second: Arcade - Frogger - General Rip_201
+  - first:
+      213: 1054483197279044023
+    second: Arcade - Frogger - General Rip_202
+  - first:
+      213: 3563715619881491488
+    second: Arcade - Frogger - General Rip_203
+  - first:
+      213: -2278030876561128676
+    second: Arcade - Frogger - General Rip_204
+  - first:
+      213: -4902267295096527663
+    second: Arcade - Frogger - General Rip_205
+  - first:
+      213: -2601787846074742858
+    second: Arcade - Frogger - General Rip_206
+  - first:
+      213: 5221964267293114416
+    second: Arcade - Frogger - General Rip_207
+  - first:
+      213: -6359498046050485507
+    second: Arcade - Frogger - General Rip_208
+  - first:
+      213: 3411302482984337309
+    second: Arcade - Frogger - General Rip_209
+  - first:
+      213: -570541584154999656
+    second: Arcade - Frogger - General Rip_210
+  - first:
+      213: 5212224526588443389
+    second: Arcade - Frogger - General Rip_211
+  - first:
+      213: 1021561120213456917
+    second: Arcade - Frogger - General Rip_212
+  - first:
+      213: -1599904466506889952
+    second: Arcade - Frogger - General Rip_213
+  - first:
+      213: 2209921992734532017
+    second: Arcade - Frogger - General Rip_214
+  - first:
+      213: -1470888373306695958
+    second: Arcade - Frogger - General Rip_215
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6fd49b0d183fda0800000000000000
+      internalID: -5912239152345254188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa228bbd42217b20800000000000000
+      internalID: 3130320933252901545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e8209837997bab0800000000000000
+      internalID: -4992352940417970580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ada3903be886dea0800000000000000
+      internalID: -5848336522380333655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a28c19ee9a16870800000000000000
+      internalID: 8674401199405410861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257d6956562fd2730800000000000000
+      internalID: 3976100563348019026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a858af997d5411f0800000000000000
+      internalID: -1075131634083669855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abff425eff95852a0800000000000000
+      internalID: -6748545086018748486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48b18890d1fef130800000000000000
+      internalID: 3602582630157105228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4411088085e58fa0800000000000000
+      internalID: -5798976604969298870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d867fed80a9040800000000000000
+      internalID: 4655042918567432832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e7547508e26e0f0800000000000000
+      internalID: -1088131131208532366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 355
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2f66b152dbea4c0800000000000000
+      internalID: -4274271029256850767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da626514d3241a750800000000000000
+      internalID: 6314400983406749357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7703fb95fd8b1ef0800000000000000
+      internalID: -136359277681768582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975f2fe60b680b250800000000000000
+      internalID: 5958410399344948601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 337
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a95fc933b45fe440800000000000000
+      internalID: 4967282042758715811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 337
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a943a09676c94f7d0800000000000000
+      internalID: -2885509493279804262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef6927edb76d4100800000000000000
+      internalID: 93845232569380838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 391
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1656a193df1048a0800000000000000
+      internalID: -6323018883286018534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a41d1af002450f60800000000000000
+      internalID: 7999872885057197224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11fadad358f33010800000000000000
+      internalID: 1167549767456846106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99818d976d576dd10800000000000000
+      internalID: 2150035436143646873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcc56351816fe1a0800000000000000
+      internalID: -6778091706091451141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 319
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aef4711d93f308b0800000000000000
+      internalID: -5187034489872384348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 319
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a509a60df6f9760800000000000000
+      internalID: 7466809648135297660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7b31a6af7d338c0800000000000000
+      internalID: -4020632571790248001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 319
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25764bf95af7c720800000000000000
+      internalID: 2866534952219342127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 319
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afafce99ccdc3bb0800000000000000
+      internalID: -4954842731503439965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
